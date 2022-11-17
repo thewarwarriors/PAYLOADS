@@ -1,2 +1,15 @@
 <h1>HTML INJECTION WORKS!!</h1>
 <pr>HTML INJECTION WORKS</pr>
+<a href="http://www.armourinfosec.com">visit ARMOUR INFOSEC!</a>
+<p>The <abbr title="Armour Infosec">AI</abbr>is the best.</p>
+<p>The<acronym title="Armour Infosec">AI></acronym>is the best.</p>
+<address>address,address</address>
+<article><h2>Armour Infosec</h2></article>
+<audio controls><source src="demo.ogg" type="audio/ogg"><source src="demo.mp3" type="audio/mpeg"></audio>
+<b>HTML Injection</b>
+<h1>hi</h1><!--
+qq<h1>hi</h1>
+qq<h1>hi</h1>qq
+%3Ch1%3Ehi%3C%2Fh1%3E
+&lt;h1&gt;hi&lt;/h1&gt;
+&#60;h1&#62;hi&#60;/h1&#62;
