@@ -26,6 +26,6 @@ qq<h1>HTML</h1>qq
 123<h1>hi</h1>123
 %253Ch1%253EHTML%253C%252Fh1%253E
 <iframe id="if1" src="https://www.google.com"></iframe>
-<iframe id="if2" src="https://wwww.google.com"></iframe>
+<iframe id="if2" src="https://www.google.com"></iframe>
 <<iMg srC=1 lAnGuAGE=VbS oNeRroR=mSgbOx(1)>
 <<h1>hyy</h1>
