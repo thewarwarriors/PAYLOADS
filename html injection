@@ -18,7 +18,7 @@
 qq<h1>HTML</h1>
 qq<h1>HTML</h1>qq
 %3Ch1%3EHTML%3C%2Fh1%3E
-&lt;h1&gt;hi&lt;/h1&gt;
+&lt;h1&gt;HTML&lt;/h1&gt;
 &#60;h1&#62;hi&#60;/h1&#62;
 <iframe src="https://www.google.com" title="ARMOUR INFOSEC"></iframe>
 123<h1>hi</h1>
