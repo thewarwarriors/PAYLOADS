@@ -1,15 +1,15 @@
-<h1>HTML INJECTION WORKS!!</h1>
-<h2>HTML INJECTION WORKS!!</h2>
-<h3>HTML INJECTION WORKS!!</h3>
-<h4>HTML INJECTION WORKS!!</h4>
-<h5>HTML INJECTION WORKS!!</h5>
-<h6>HTML INJECTION WORKS!!</h6>
-<pre>HTML INJECTION WORKS</pre>
-<p>test12345.....</p>
-<i>test12345.....</i>
-<a href="http://www.armourinfosec.com">visit ARMOUR INFOSEC!</a>
-<abbr title="Armour Infosec">AI</abbr>
-<acronym title="Armour Infosec">AI></acronym>
+<h1>HTML</h1>
+<h2>HTML</h2>
+<h3>HTML</h3>
+<h4>HTML</h4>
+<h5>HTML</h5>
+<h6>HTML</h6>
+<pre>HTML</pre>
+<p>HTML</p>
+<i>HTML</i>
+<a href="https://www.google.com">HTML</a>
+<abbr title="HTML">HTML</abbr>
+<acronym title="Armour Infosec">AI</acronym>
 <address>address,address</address>
 <article><h2>Armour Infosec</h2></article>
 <audio controls><source src="demo.ogg" type="audio/ogg"><source src="demo.mp3" type="audio/mpeg"></audio>
@@ -17,7 +17,7 @@
 <h1>hi</h1><!--
 qq<h1>hi</h1>
 qq<h1>hi</h1>qq
-%3Ch1%3Ehi%3C%2Fh1%3E
+%3Ch1%3EHTML%20INJECTION%20WORKS!!%3C%2Fh1%3E
 &lt;h1&gt;hi&lt;/h1&gt;
 &#60;h1&#62;hi&#60;/h1&#62;
 <iframe src="http://www.armourinfosec.com" title="ARMOUR INFOSEC"></iframe>
