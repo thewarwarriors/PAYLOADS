@@ -33,3 +33,5 @@ qq<h1>HTML</h1>qq
 <<h1>html</h1>>
 %253Ch1%253EHTML%253C%252Fh1%253E
 <div>HTML</div>
+%3Ci%3Ehtml%3C%2Fi%3E
+%253Ci%253Ehtml%253C%252Fi%253E
